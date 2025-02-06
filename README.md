@@ -11,7 +11,7 @@ This project contains an HTML file that includes a button to open a modal. The m
 -License
 
 
-1. Technologies Used
+1- Technologies Used
 HTML
 
 CSS (style.css)
@@ -22,14 +22,14 @@ Google Fonts (Roboto)
 
 Font Awesome
 
-2. Features
+2- Features
 Modal opens when the button is clicked.
 
 Modal can be closed using the close button.
 
 External fonts and icons are used to enhance the design.
 
-3. Installation
+3- Installation
 Clone the repository:
 
 bash
@@ -40,13 +40,13 @@ bash
 cd your-repo
 Open the index.html file in your browser to see the project in action.
 
-4. Usage
+4- Usage
 Click the "Where's Our Model" button to open the modal.
 
 Click the "×" button to close the modal.
 
-5. Contributing
+5- Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
 
-6. License
+6- License
 This project is licensed under the MIT License. See the LICENSE file for details.
